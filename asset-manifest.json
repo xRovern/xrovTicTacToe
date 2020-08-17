@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xrovTicTacToe/static/css/main.2c6db9df.chunk.css",
+    "main.js": "/xrovTicTacToe/static/js/main.60808255.chunk.js",
+    "main.js.map": "/xrovTicTacToe/static/js/main.60808255.chunk.js.map",
+    "runtime-main.js": "/xrovTicTacToe/static/js/runtime-main.db89a8f6.js",
+    "runtime-main.js.map": "/xrovTicTacToe/static/js/runtime-main.db89a8f6.js.map",
+    "static/js/2.5f34c475.chunk.js": "/xrovTicTacToe/static/js/2.5f34c475.chunk.js",
+    "static/js/2.5f34c475.chunk.js.map": "/xrovTicTacToe/static/js/2.5f34c475.chunk.js.map",
+    "index.html": "/xrovTicTacToe/index.html",
+    "precache-manifest.f2fb0f086505c88840070f140e404c9a.js": "/xrovTicTacToe/precache-manifest.f2fb0f086505c88840070f140e404c9a.js",
+    "service-worker.js": "/xrovTicTacToe/service-worker.js",
+    "static/css/main.2c6db9df.chunk.css.map": "/xrovTicTacToe/static/css/main.2c6db9df.chunk.css.map",
+    "static/js/2.5f34c475.chunk.js.LICENSE.txt": "/xrovTicTacToe/static/js/2.5f34c475.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db89a8f6.js",
+    "static/js/2.5f34c475.chunk.js",
+    "static/css/main.2c6db9df.chunk.css",
+    "static/js/main.60808255.chunk.js"
+  ]
+}
